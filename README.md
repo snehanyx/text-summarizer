@@ -1,4 +1,4 @@
-# text-summarizer
+
 # 📝 Real-Time Text Summarizer Web App
 A real-time web app that summarizes long text using extractive methods via Flask.
 A lightweight and efficient real-time text summarizer built using Flask and Python, this web application allows users to input long text and receive a condensed version using extractive summarization. It selects the most important sentences based on word frequency and relevance — making it useful for quickly understanding large bodies of text like news articles, reports, or essays.
